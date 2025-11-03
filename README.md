@@ -1,5 +1,7 @@
 # ESP32 micro-ROS Car 🤖🪶
-Wi-Fi controlled ESP32 robot using **micro-ROS**, **ROS 2 Humble**, and **teleop_twist_keyboard**.
+Wi-Fi controlled ESP32 robot using **micro-ROS**, **ROS 2 Humble**, and **teleop_twist_keyboard**
+
+![Image](https://github.com/user-attachments/assets/0a0e2b0c-90f1-459f-8495-9b509c9c90b8)
 
 ---
 
