@@ -13,7 +13,7 @@ Wi-Fi controlled ESP32 robot using **micro-ROS**, **ROS 2 Humble**, and **teleop
 
 ## ✨ Features
 - Keyboard teleoperation  
-- Live camera feed from ESP32-CAM (viewable in rqt or browser)  
+- Live camera feed (viewable in rqt or browser)  
 - ROS 2 integration with micro-ROS agent  
 - Easily extendable for sensors or autonomous features  
 
